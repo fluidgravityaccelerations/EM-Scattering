@@ -1,9 +1,3 @@
-"""Python port of main_efie_nystrom_circle.m.
-
-Run from the repository root with:
-    python examples/nystrom_circle.py
-"""
-
 from __future__ import annotations
 
 import argparse
